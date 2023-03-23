@@ -1,6 +1,6 @@
 .super-mario {
     width: 170px;
-    margin-left: 120px;
+    margin-left: 100px;
     position: absolute;
     z-index: 1;
   }
@@ -8,7 +8,7 @@
   .goomba {
     width: 100px;
     margin-top: 300px;
-    margin-left: 150px;
+    margin-left: 130px;
     position: absolute;
     z-index: 2;
   }
