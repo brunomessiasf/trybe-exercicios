@@ -1,3 +1,14 @@
 h1, p {
     text-align: center;
 }
+
+li:hover {
+    background-color: goldenrod;
+}
+Li:active {
+    font-style: italic;
+}
+
+ul, ol {
+    list-style: none;
+}
