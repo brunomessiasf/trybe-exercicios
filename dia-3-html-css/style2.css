@@ -1,6 +1,6 @@
 .super-mario {
     width: 170px;
-    
+    margin-left: 120px;
   }
   
   .goomba {
@@ -16,5 +16,5 @@
   }
   
   .bowser {
-    width: 150px;
+    width: 170px;
   }
