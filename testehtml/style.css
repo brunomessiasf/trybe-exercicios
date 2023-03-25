@@ -1,0 +1,132 @@
+body {
+    background-image: url("rszfundomar.jpg");
+    background-size: cover;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+#links li {
+    display: inline-block;
+    list-style: none;
+    padding: 12px;
+}
+
+.imagenstopo {
+    margin-left: 350px;
+    border-radius: 20px;
+}
+
+.imagensfundo {
+    border-radius: 20px;
+}
+
+
+.visao {
+    display: inline-block;
+    padding: 40px;
+    font-size: 15px;
+}
+
+.aquario {
+    display: inline-block;
+    padding: 40px;
+    font-size: 15px;
+}
+.Reino {
+    display: inline-block;
+    list-style: none;
+    border: 3px solid;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 85%;
+    margin-left: -40px;
+    
+}
+.Filo {
+    display: inline-block;
+    list-style: none;
+    border: 3px solid;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 85%;
+    margin-left: -40px;
+}
+.Subfilo {
+    display: inline-block;
+    list-style: none;
+    border: 3px solid;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 85%;
+    margin-left: -40px;
+}
+.Classe {
+    display: inline-block;
+    list-style: none;
+    border: 3px solid;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 85%;
+    margin-left: -40px;
+}
+.Subclasse {
+    display: inline-block;
+    list-style: none;
+    border: 3px solid;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 85%;
+    margin-left: -40px;
+}
+
+    .Ordem {
+    display: inline-block;
+    list-style: none;
+    border: 3px solid;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 85%;
+    margin-left: -40px;
+}
+#Videolateral {
+    display: inline-block;
+    text-align: left;
+    border: 3px solid blanchedalmond;
+    border-radius: 10px;
+    border-width: 2px;
+    margin-left: 69%;
+    margin-top: -430px;
+    padding: 20px;
+    padding-bottom: 60px;
+}
+
+.Botão {
+    background-color: aqua;
+    font-size: 18px;
+    padding: 15px;
+    border: 3px solid blanchedalmond;
+    border-radius: 10px;
+    border-width: 2px;
+    
+}
+
+.Fontes {
+    display: inline-block;
+    padding: 20px;
+    font-size: 16px;
+    
+}
