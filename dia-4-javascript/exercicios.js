@@ -18,4 +18,4 @@ leitor.livrosFavoritos.push(
     },
   );
 
-console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama ' + '"' + leitor.livrosFavoritos[1].titulo + '"')
+console.log('Julia tem ' + leitor.livrosFavoritos.length + ' livros favoritos')
