@@ -73,8 +73,20 @@
       paragrafo1.innerHTML = '"Viajar é mudar a roupa da alma (Mário Quintana)"';
       principal.appendChild(paragrafo1);
 
-      
+      const esquerda = document.createElement('section');
+      esquerda.className = 'left-content';
+      principal.appendChild(esquerda); 
 
+      const direita = document.createElement('section');
+      direita.className = 'right-content';
+      principal.appendChild(direita);
+
+      const imagem = document.createElement('img')
+      imagem.src = 'https://picsum.photos/200';
+      imagem.className = 'small-image';
+      esquerda.appendChild(imagem);
+
+     
 
 
 
