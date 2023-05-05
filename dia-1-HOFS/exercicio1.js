@@ -5,4 +5,4 @@ const emailListInData = [
     'fabiano@email.com',
   ];
   
-  // Adicione seu código aqui
+emailListInData.forEach((email) => console.log(`O email ${email} está cadastrado em nosso banco de dados!`));
